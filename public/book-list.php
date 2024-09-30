@@ -1,5 +1,5 @@
 <?php
-// book-list.php
+// Book-list.php
 include '../src/db_connect.php';
 
 $sql = "SELECT * FROM books";
