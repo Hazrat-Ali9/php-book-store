@@ -1,4 +1,4 @@
-// cart.js
+// Cart.js
 function addToCart(bookId) {
     // Fetch existing cart data from localStorage
     let cart = localStorage.getItem('cart');
