@@ -1,5 +1,5 @@
 <?php
-
+// Install Version
 /*
  * This file is part of Composer.
  *
